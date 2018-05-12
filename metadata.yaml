@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7647'
     url: http://www.gutenberg.org/2009/agents/7647
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17850#La-pergamena-distruttaRomanzo-del-secolo-XVI
 gutenberg_bookshelf:
 - Historical Fiction
 - IT Romanzi storici
