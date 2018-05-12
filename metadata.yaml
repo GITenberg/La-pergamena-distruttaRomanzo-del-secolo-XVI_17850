@@ -1,0 +1,29 @@
+_repo: La-pergamena-distruttaRomanzo-del-secolo-XVI_17850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mulazzi, Virginia
+    gutenberg_agent_id: '7647'
+    url: http://www.gutenberg.org/2009/agents/7647
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- IT Romanzi storici
+gutenberg_issued: '2006-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17850'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+title: 'La pergamena distrutta
+
+  Romanzo del secolo XVI'
+url: http://www.gutenberg.org/ebooks/17850
